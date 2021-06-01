@@ -1,5 +1,5 @@
 ;; *************** HUD_CONSTANTS.dat ***************
-;; Constants export. May 30, 2021 2:19:07 AM
+;; Constants export. May 31, 2021 8:28:52 PM
 BLANK_TILE = $00
 _0 = $10
 _1 = $11

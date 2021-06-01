@@ -1,5 +1,5 @@
 ;; *************** UserDefinedConstants.asm ***************
-;; UserDefinedConstants export. May 30, 2021 2:19:07 AM
+;; UserDefinedConstants export. May 31, 2021 8:28:52 PM
 
 OBJECT_OBSERVES_INPUT  = $20
 OBJECT_OBSERVES_PHYSICS  = $10
@@ -16,7 +16,7 @@ SCROLL_BORDER_L  = $70
 SCROLL_BORDER_U  = $64
 SCROLL_BORDER_D  = $8c
 GS_MainGame  = $00
-GS_StartScreen  = $00
+GS_StartScreen  = $01
 HUD_OFFSET  = $c0
 TEXT_MORE_INDICATOR  = $00
 HUD_BANK  = $1e
